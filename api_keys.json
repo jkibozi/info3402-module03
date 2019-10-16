@@ -1,0 +1,11 @@
+{
+	"spotify": {
+		"client_id": "ded0f97d9a934d35b85673fd31ec875d",
+		"client_secret": "052d87d2f2cf458fb3bdba749abeb139"
+	},
+	"genius": {
+		"client_id": "TA7caLXpRcJh4hevG5IykrwsOANgF-ROFSs45S1Q0KasloNxtHkmq6Agrvqli54n",
+		"client_secret": "gwav5zcYioZOyYubMTy8yD91LW-jbiSbtX6iBjNIqEBes3qoW6jht-0My4OimDqzsspfVqityKyvpgZkfIKQeA",
+		"access_token": "DpAMr86T29KP85nJJaFxYtqBBfLxsFxCaae_1TIiPpXxY6fJpJ235YNZSEtAM2Og"
+	}
+}
